@@ -1,5 +1,5 @@
 /**
- * Created by Nacho González-Garilleti on 7/3/16.
+ * @author Nacho González-Garilleti
  */
 public class Banco {
 
